@@ -4,7 +4,7 @@
 
 <h2>Dizedeki En Küçük Veriyi Bulan Program....</h2>
 
-           int[] array = { 1, 2, -10, 4, 5, };
+           int[] array = { 1, 2, -10, 4, 5 };
            
             var minimum = array[0];
             
